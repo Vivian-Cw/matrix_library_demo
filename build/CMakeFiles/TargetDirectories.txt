@@ -1,0 +1,3 @@
+/home/cw/opencv_learning/matrix_library_demo/build/CMakeFiles/matrix_library_demo.dir
+/home/cw/opencv_learning/matrix_library_demo/build/CMakeFiles/edit_cache.dir
+/home/cw/opencv_learning/matrix_library_demo/build/CMakeFiles/rebuild_cache.dir
